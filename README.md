@@ -46,10 +46,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <div/>
-  
-  <br></br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=imran-baitham&theme=redical&hide_border=true">
-<br></br>
 
 ## About Me
 
