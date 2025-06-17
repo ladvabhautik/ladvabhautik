@@ -39,9 +39,9 @@ Bhautik Ladva</a> </b></h1>
 - 👥 Currently leading a team of developers at SharepointEmpower Pvt. Ltd.
 - 🎯 Focused on performance, code quality, reusability, and mentoring
 - 📝 I write clean, maintainable code and enjoy solving complex problems
-- 👨‍💻 All of my projects are available at [My Portfolio](https://bhautikladva.dev)
+<!--- - 👨‍💻 All of my projects are available at [My Portfolio](https://bhautikladva.dev)
 - 📝 I regularly write articles on [My Blog](https://bhautikladva.hashnode.dev)
-- 📄 Know about my experiences [My Resume](https://bhautikladva.dev/resume.pdf) 
+- 📄 Know about my experiences [My Resume](https://bhautikladva.dev/resume.pdf) -->
 
 ### 📈 GitHub Stats
 
